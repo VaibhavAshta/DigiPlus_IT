@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    display: grid;
+    gap: 9px;
+    justify-content: center;
+  }
+  
+
+  
